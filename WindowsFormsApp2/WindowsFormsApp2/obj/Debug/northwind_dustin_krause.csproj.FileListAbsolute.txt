@@ -1,0 +1,13 @@
+C:\Users\Delta Home\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\northwnd.mdf
+C:\Users\Delta Home\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\northwnd_log.ldf
+C:\Users\Delta Home\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Delta Home\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Delta Home\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Delta Home\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\northwind_dustin_krause.csproj.AssemblyReference.cache
+C:\Users\Delta Home\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\northwind_dustin_krause.csproj.SuggestedBindingRedirects.cache
+C:\Users\Delta Home\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Delta Home\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Delta Home\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\northwind_dustin_krause.csproj.GenerateResource.cache
+C:\Users\Delta Home\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\northwind_dustin_krause.csproj.CoreCompileInputs.cache
+C:\Users\Delta Home\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Delta Home\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
